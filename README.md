@@ -1,4 +1,4 @@
-# VELOCITÉ - Libre Service
+# DATA MINING GOUVERNANCE - VELOCITé
 Dans le cadre de notre projet de Data Mining et de Gouvernance des données, j’ai joué le rôle de DPO (Data Protection Officer), sous la supervision de Dr.Yasmina Fedala et de Yasaman HEMMATI.
 
 Le cas d’étude portait sur "Vélocité", un service de vélos en libre-service, avec deux projets proposés :
